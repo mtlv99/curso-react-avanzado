@@ -1,10 +1,10 @@
 # Curso React Avanzado
 
-Estoy siguiendo este curso de React / I'm following this React Course:
+Estoy siguiendo este curso de React Avanzado / I'm following this Advanced React Course:
 
 https://www.udemy.com/course/react-pro/
 
-English warning: For this repo, I wrote all the notes in Spanish, this is a personal project where I take notes for this React course.
+English warning: For this repo, I wrote all the notes in Spanish, this is a personal project where I take notes for this Advanced React course.
 
 
 ### Nota
